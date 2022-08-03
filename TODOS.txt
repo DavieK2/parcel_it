@@ -1,0 +1,1 @@
+- Location service should be check internet connetion state using a stream.

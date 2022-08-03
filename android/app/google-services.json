@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719297851635",
+    "project_id": "parcel-it-35eca",
+    "storage_bucket": "parcel-it-35eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719297851635:android:f59af76f7a6d9963350786",
+        "android_client_info": {
+          "package_name": "com.parcelit.parcel_it_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719297851635-f47ba93glmcijdnlpupd5eepp4fqoh03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parcelit.parcel_it_app",
+            "certificate_hash": "f160b9564bd17fa0dd5ed666fe9bcfd1c05ec866"
+          }
+        },
+        {
+          "client_id": "719297851635-4r7japcccb470ija1unm0kuecag19ps4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNN0FSJ5MG9i8xWjS4Ip_e7SQF2mdmP4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719297851635-4r7japcccb470ija1unm0kuecag19ps4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
